@@ -4,3 +4,4 @@ FBB+ tool for facebook bruteforce attack
 # $ cd fbb-
 # $ chmod +X 
 # $ bash install.sh
+# $ python2 fbb+.py
